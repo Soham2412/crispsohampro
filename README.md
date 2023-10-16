@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @crispsoham
-- 👀 I’m interested in programming,anime is pure love,reading books,manga, LN, playing games 
-- 🌱 I’m currently learning ...python,c++,java
+- 👀 I’m interested in programming,technology,anime is pure love,reading books,manga, LN, playing games,listening to nightcore,pure music lover 
+- 🌱 I’m currently learning ...python language
+- 💻 c++,java programmar, python(learning)
+- 🎮 Genshin player,honkai star rail,honkai impact 3rd,Valorant,fortnite,OW2,CS2,minecraft(java & bedrock)
 
 <!---
 crispsohampro/crispsohampro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
